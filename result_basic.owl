@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns2="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barfi!">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Barfi!</ns2:movieName>
+    <ns2:budget rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ns2:budget>
+    <ns2:budget xml:lang="en">INR</ns2:budget>
+    <ns2:movieDescription xml:lang="en">Barfi! is a 2012 Indian Hindi-language romantic comedy drama film directed by Anurag Basu and produced by Ronnie Screwvala and Siddharth Roy Kapur under UTV Motion Pictures. The film stars Ranbir Kapoor as the eponymous lead, alongside Priyanka Chopra and Ileana D'Cruz in lead roles, with Saurabh Shukla, Ashish Vidyarthi, Haradhan Bandopadhyay and Jisshu Sengupta in supporting roles. Set in 1970s Darjeeling and Kolkata, the film is about Murphy "Barfi" Johnson, a deaf-mute young boy who develops a special bond with two young girls Shruti Ghosh and Jhilmil Chatterjee, while often being chased by a local police officer Inspector Sudhanshu Dutta for his nuisances. Made on a budget of approximately ₹500 million (US$6.3 million), Barfi! opened worldwide on 14 September 2012. The film received widespread critical acclaim, with critics praising the cast performances, direction, screenplay, cinematography, music and the positive portrayal of physically disabled people. The film was a major box-office success, becoming one of the highest-grossing Bollywood films of 2012 in India and overseas. The film went on to gross over 1.75 billion rupees (US$25 Million) worldwide. The film was selected as India's official entry for the Best Foreign Language Film nomination for the 85th Academy Awards. Barfi! won several awards and nominations at various award ceremonies across India. At the 58th Filmfare Awards, Barfi! received a leading 12 nominations including Best Director (Basu), Best Actress (Chopra) and Best Supporting Actress (D'Cruz), and won a leading 7 awards including Best Film, Best Actor (Kapoor), Best Female Debut (D'Cruz) and Best Music Director (Pritam).</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">9000.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Hindi"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Ileana_D'Cruz"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Ranbir_Kapoor"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Priyanka_Chopra"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Pritam"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Anurag_Basu"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Siddharth_Roy_Kapur"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Ronnie_Screwvala"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Ravi_Varman"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/UTV_Motion_Pictures"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/India"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Anurag_Basu"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Between_Two_Women_(1945_film)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Between Two Women</ns2:movieName>
+    <ns2:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">436000.0</ns2:budget>
+    <ns2:movieDescription xml:lang="en">Between Two Women, made in 1945, was the sixteenth film in the Dr Kildare series. This was the fourteenth of fifteen in which Lionel Barrymore starred as Dr. Leonard B. Gillespie. The film following was Dark Delusion (1947), which was the last in the Dr. Kildare series released by Metro-Goldwyn-Mayer (MGM). This was the last of Van Johnson's character, Dr. Randall 'Red' Adams, also seen in three previous Kildare films.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">4980.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/English_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Gloria_DeHaven"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Van_Johnson"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Lionel_Barrymore"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/David_Snell_(composer)"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Willis_Goldbeck"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Carey_Wilson_(writer)"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Harold_Rosson"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Metro-Goldwyn-Mayer"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Max_Brand"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Harry_Ruskin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Götz_Otto">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Premer_Kahini">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Premer kahini</ns2:movieName>
+    <ns2:movieDescription xml:lang="en">Premer Kahini (translation: Story of Love) is a 2008 Inidan Bengali-language romantic drama film directed by Ravi Kinagi and the cinematography was done by Chota K. Naidu. The film features Dev, Koyel Mullick, Jisshu Sengupta and Ranjit Mallick in primary roles. An official remake of Kannada blockbuster film Mungaru Male with a different climax, it is the third film of Bengali actor Dev, after the films Agnishapath and I Love You.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">9000.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Bengali_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Koyel_Mullick"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Dev_(Bengali_actor)"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Jeet_Gannguli"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Ravi_Kinagi"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Shree_Venkatesh_Films"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Chota_K._Naidu"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Shree_Venkatesh_Films"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/India"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Yograj_Bhat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/English_language">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Space">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanju">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Sanju</ns2:movieName>
+    <ns2:budget xml:lang="en">INR</ns2:budget>
+    <ns2:budget rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</ns2:budget>
+    <ns2:movieDescription xml:lang="en">Sanju is a 2018 Indian Hindi-language biographical film directed and edited by Rajkumar Hirani, written by Hirani and Abhijat Joshi and produced by Hirani and Vidhu Vinod Chopra under the banners Rajkumar Hirani Films and Vinod Chopra Films. The film chronicles the life of Bollywood actor Sanjay Dutt with main parts bring his addiction with drugs, arrest for his association with the 1993 Bombay bombings, relationship with his father, comeback in the industry, the eventual drop of charges from the Bombay bombings and release after completing his jail term. Ranbir Kapoor stars as the title character, along with an ensemble cast which features Paresh Rawal, Vicky Kaushal, Manisha Koirala, Anushka Sharma, Sonam Kapoor Ahuja, Dia Mirza and Jim Sarbh. In a conversation with Hirani, Dutt shared anecdotes from his life, which the former found intriguing and prompted him to make a film based on Dutt's life. It was titled Sanju after the nickname Dutt's mother Nargis used to call him. Principal photography began in January 2017 and wrapped up in January 2018. The film's soundtrack was composed by Rohan-Rohan and Vikram Montrose, with A. R. Rahman as a guest composer. Fox Star Studios acquired the distribution rights of the film. Sanju was released worldwide on 29 June 2018. It received positive reviews from critics, who praised Kapoor’s performance as well as Hirani's direction; some criticized its supposed image-cleansing of its protagonist. It registered the highest opening for any film released in India in 2018, and on its third day, it had the highest single-day collection ever for a Hindi film in India. With a worldwide gross of over ₹586.85 crore (US$73 million), Sanju emerged as the highest grossing Bollywood film of 2018, the second highest-earning Hindi film in India of all time, and the 11th highest-grossing Indian film. It earned seven nominations at the 64th Filmfare Awards including Best Film and Best Director, winning Best Actor for Kapoor and Best Supporting Actor for Kaushal.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">9660.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Hindi"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Ranbir_Kapoor"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/A._R._Rahman"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Rohan-Rohan"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Rajkumar_Hirani"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Rajkumar_Hirani"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Vidhu_Vinod_Chopra"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Ravi_Varman"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Fox_Star_Studios"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/India"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Rajkumar_Hirani"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Abhijat_Joshi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romeo_and_Juliet_(1968_film)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Romeo and Juliet</ns2:movieName>
+    <ns2:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">850000.0</ns2:budget>
+    <ns2:movieDescription xml:lang="en">Romeo and Juliet (Italian: Romeo e Giulietta) is a 1968 period coming-of-age romantic tragedy film based on the play of the same name by William Shakespeare. Directed and co-written by Franco Zeffirelli, the film stars Leonard Whiting as Romeo and Olivia Hussey as Juliet. Laurence Olivier spoke the film's prologue and epilogue and dubs the voice of the actor Antonio Pierfederici, who played Lord Montague, but was not credited on-screen. The cast also stars Milo O'Shea, Michael York, John McEnery, Bruce Robinson, and Robert Stephens. The most financially successful film adaptation of a Shakespeare play at the time of its release, it was popular among teenagers partly because it was the first film to use actors who were close to the age of the characters from the original play. Several critics also welcomed the film enthusiastically. It won Academy Awards for Best Cinematography (Pasqualino De Santis) and Best Costume Design (Danilo Donati); it was also nominated for Best Director and Best Picture, making it the last Shakespearean film to be nominated for Best Picture to date. Whiting and Hussey both won Golden Globe Awards for Most Promising Newcomers.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">8280.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/English_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Milo_O'Shea"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Michael_York"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Robert_Stephens"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/John_McEnery"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Olivia_Hussey"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Pat_Heywood"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Natasha_Parry"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Leonard_Whiting"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Nino_Rota"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Franco_Zeffirelli"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/John_Brabourne"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Anthony_Havelock-Allan"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Pasqualino_De_Santis"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Paramount_Pictures"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/Italy"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Franco_Zeffirelli"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Franco_Brusati"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Calendar_(1993_film)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Calendar</ns2:movieName>
+    <ns2:movieDescription xml:lang="en">Calendar (Armenian: Օրացույց) is a 1993 drama film directed by Atom Egoyan.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">4440.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Armenian_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Atom_Egoyan"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Ashot_Adamyan"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Arsinée_Khanjian"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Eve_Egoyan"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Djivan_Gasparyan"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Hovhanness_Tarpinian"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/John_Grimaldi"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Atom_Egoyan"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Atom_Egoyan"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Arsinée_Khanjian"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Robert_Lantos"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Atom_Egoyan"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Norayr_Kasper"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Zeitgeist_Films"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/Armenia"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Atom_Egoyan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billu_Barber">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Billu</ns2:movieName>
+    <ns2:budget xml:lang="en">₹ 260 million</ns2:budget>
+    <ns2:movieDescription xml:lang="en">Billu, previously known as Billu Barber, is a 2009 Indian Hindi-language comedy drama film by Priyadarshan, produced by Red Chillies Entertainment and distributed by Eros International, with an adapted screenplay by Manisha Korde and Mushtaq Sheikh based on the script by Sreenivasan. It stars Irrfan Khan as the title character and Lara Dutta in lead roles with Om Puri, Asrani and Rajpal Yadav in supporting roles. Shah Rukh Khan makes an extended guest appearance. Kareena Kapoor, Priyanka Chopra and Deepika Padukone, make special appearances in songs. The film was released on 13 February 2009 worldwide. It is an official adaptation of the critically acclaimed Malayalam film Kadha Parayumbol (2007). It is also a retelling of the story of Sudama and Krishna. The film was screened at the 2009 Hawaii International Film Festival.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">8160.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Hindi"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Lara_Dutta"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Shah_Rukh_Khan"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Irrfan_Khan"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Pritam"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Priyadarshan"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Gauri_Khan"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Shah_Rukh_Khan"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/V._Manikandan"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Eros_International"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/India"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Sreenivasan"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Mushtaq_Shiekh"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#directedBy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <owl:inverseOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#directorOf"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ma_femme_s'appelle_Maurice">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Ma femme s'appelle Maurice</ns2:movieName>
+    <ns2:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.57E7</ns2:budget>
+    <ns2:movieDescription xml:lang="en">Ma femme s'appelle Maurice (English: My Wife's Name Is Maurice) is a 2002 French comedy film directed by Jean-Marie Poiré and starring Alice Evans, Régis Laspalès, Philippe Chevallier and Götz Otto.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">6120.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/French_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Götz_Otto"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Régis_Laspalès"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Urbain_Cancelier"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Martin_Lamotte"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Philippe_Chevallier_(actor)"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Virginie_Lemoine"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Alice_Evans"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Guy_Marchand"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Anémone"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Pierre_Charvet"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Jean-Marie_Poiré"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Jean-Marie_Poiré"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Robert_Alazraki"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Comédie_Star"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/France_2_Cinéma"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/France"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Raffy_Shart"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Jean-Marie_Poiré"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loreena_McKennitt">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#countryName">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#name"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baba_Azmi">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#movieDescription">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#description"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ighor_Zhuravlev">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#population">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#long"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Captive_Hearts_(film)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Captive Hearts</ns2:movieName>
+    <ns2:movieDescription xml:lang="en">Captive Hearts (aka Fate of a Hunter) is a 1987 romantic-drama movie co-produced between Canada, the U.S. and Japan starring Pat Morita, and co-written by Morita and John A. Kuri. It was directed by Paul Almond, filmed in Canada and released in the United States on June 5, 1987.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">5820.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/English_language"/>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Japanese_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Michael_Sarrazin"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Chris_Makepeace"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Pat_Morita"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Osamu_Kitajima"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Paul_Almond"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Milton_Goldstein_(film_executive)"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/John_A._Kuri"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Thomas_Vámos"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Metro-Goldwyn-Mayer"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/Japan"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/Canada"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/John_A._Kuri"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Pat_Morita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rowdy_Rathore">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Rowdy Rathore</ns2:movieName>
+    <ns2:budget xml:lang="en">INR</ns2:budget>
+    <ns2:budget rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ns2:budget>
+    <ns2:movieDescription xml:lang="en">Rowdy Rathore is a 2012 Indian Hindi-language action comedy film directed by Prabhu Deva and produced by Sanjay Leela Bhansali and Ronnie Screwvala under the UTV Motion Pictures and Bhansali Productions banners. A remake of the 2006 Telugu film Vikramarkudu, based on an original story written by V. Vijayendra Prasad, it stars Akshay Kumar in double roles of a brave police officer and thief. The film also features Sonakshi Sinha, Gurdeep Kohli, Yashpal Sharma and Paresh Ganatra in supporting roles, while Nassar portrays the main antagonist. In the film, Vikram Rathore, a brave police officer, dies at the hands of corrupt politicians. But his team replaces him with Shiva, a thief who happens to be his look-alike, in an attempt to catch the culprits. Filmed primarily in Mumbai and Hampi on a budget of ₹60 crore, Rowdy Rathore was released worldwide on 1 June 2012. Its music was composed by Sajid–Wajid. It opened to mixed to reviews from the critics and became a blockbuster at the domestic and worldwide box office. Good word-of-mouth had helped it to take its distributor share to ₹740 million (US$9.3 million) in India at the end of its run. It has emerged one of the biggest grosser ever in Mumbai circuit and grossed ₹515.5 million (US$6.5 million) in seven weeks. The film grossed over ₹281.39 crore (US$35 million) becoming one of the highest-grossing Indian films.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">8400.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Hindi"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Nassar(actor)"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Akshay_Kumar"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Sonakshi_Sinha"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Sajid–Wajid"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Sandeep_Chowta"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Prabhu_Deva"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Ronnie_Screwvala"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Sanjay_Leela_Bhansali"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Santosh_Thundiyil"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/UTV_Motion_Pictures"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/India"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/V._Vijayendra_Prasad"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bhoothnath_Returns">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Bhoothnath Returns</ns2:movieName>
+    <ns2:budget xml:lang="en">INR</ns2:budget>
+    <ns2:budget rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ns2:budget>
+    <ns2:movieDescription xml:lang="en">Bhoothnath Returns (transl. Lord of ghosts returns) is a 2014 Indian Hindi-language supernatural comedy film directed by Nitesh Tiwari and produced by Bhushan Kumar. A sequel to 2008 film Bhoothnath, the film revolves around Bhoothnath (Amitabh Bachchan) who is mocked in a Bhoothworld for his inability to scare children before being sent back to Earth to redeem himself. The film was released on 11 April 2014. Election Commission of India demanded tax-free status for Bhoothnath Returns, stating, "The state governments should support the strong social message that emanates from the film. Granting tax-free status to this film would make people aware about their rights as voters like making voter ID cards or not treating polling day as holiday". The Uttar Pradesh Government has declared tax-free status to film on 30 April 2014.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">9300.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Hindi_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Parth_Bhalerao"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Boman_Irani"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Amitabh_Bachchan"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Usha_Nadkarni"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Sanjay_Mishra_(actor)"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Usha_Jadhav"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Brijendra_Kala"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Palash_Muchhal"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Meet_Bros_Anjjan"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Ram_Sampath"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Yo_Yo_Honey_Singh"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Nitesh_Tiwari"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Bhushan_Kumar"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Kamaljeet_Negi"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/AA_Films"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/India"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Nitesh_Tiwari"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bayo_(film)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Bayo</ns2:movieName>
+    <ns2:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1942000.0</ns2:budget>
+    <ns2:movieDescription xml:lang="en">Bayo is a 1985 Canadian drama film, directed by Mort Ransen and written by Ransen, Terry Ryan, and Arnie Gelbart. The film stars Ed McNamara, Patricia Phillips, Stephan McGrath, Hugh Webster, Cedric Smith, Patrick Lane, and Maisie Rillie. Set in Tickle Cove, Newfoundland and Labrador, the film focuses on the relationship of Bayo (McGrath), a young boy living with his single parent Sharon (Phillips). When Sharon's long-estranged father Phillip (McNamara) returns, Bayo's fascination with his grandfather threatens to upend Sharon's plan to move to Toronto. The film had a limited theatrical run in the spring of 1985, before airing on CBC Television in the fall. McNamara received a Genie Award nomination for Best Actor at the 7th Genie Awards in 1986, while Phillips received an ACTRA Award nomination for Best Television Actress the same year.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">5940.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Canadian_English"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Cedric_Smith_(actor)"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Ed_McNamara"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Hugh_Webster_(actor)"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Patricia_Phillips"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Cedric_Smith_(actor)"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Loreena_McKennitt"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Mort_Ransen"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Harry_Gulkin"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Georges_Dufaux"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/René_Malo"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/Canada"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Mort_Ransen"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S._Narayan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronnie_Screwvala">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bear_Island_(film)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Bear Island</ns2:movieName>
+    <ns2:budget xml:lang="en">$CAD12,100,000  or $9.3 million</ns2:budget>
+    <ns2:movieDescription xml:lang="en">Bear Island is a 1979 thriller film loosely based on the 1971 novel Bear Island by Alistair MacLean. It was directed by Don Sharp and starred Donald Sutherland, Vanessa Redgrave, Richard Widmark, Christopher Lee and Lloyd Bridges.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">7080.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/German_language"/>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/English_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Richard_Widmark"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Vanessa_Redgrave"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Christopher_Lee"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Donald_Sutherland"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Lloyd_Bridges"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Robert_Farnon"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Don_Sharp"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Peter_Snell_(producer)"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Alan_Hume"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/United_Artists"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Columbia_Pictures"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/EMI_Films"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Taft_Broadcasting"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Don_Sharp"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/David_Butler_(screenwriter)"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Murray_Smith_(writer)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Charvet">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Priyanka_Chopra">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canadian_Mounties_vs._Atomic_Invaders">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Canadian Mounties vs Atomic Invaders</ns2:movieName>
+    <ns2:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">172795.0</ns2:budget>
+    <ns2:movieDescription xml:lang="en">Canadian Mounties vs Atomic Invaders (1953) is a Republic Movie serial starring Bill Henry and both produced and directed by Franklin Adreon. It was the sixty-second serial (of sixty-six) produced by Republic. Despite the title, this is not a science fiction serial. The plot is a northern cold war adventure involving secret missile bases and a planned invasion of the United States.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">6000.0</ns2:durationSeconds>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">10020.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/English_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Susan_Morrow"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Arthur_Space"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Dale_Van_Sickel"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/William_Henry_(actor)"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Pierre_Watkin"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Stanley_Wilson_(musician)"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Franklin_Adreon"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Franklin_Adreon"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/John_MacBurnie"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Republic_Pictures"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Ronald_Davidson"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sandeep_Chowta">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#hasMusicBy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <owl:inverseOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#wroteMusicFor"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Sutherland">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arsinée_Khanjian">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susan_Morrow">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#movieLanguageOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonakshi_Sinha">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#producedBy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <owl:inverseOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#producerOf"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Alazraki">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginie_Lemoine">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Puli_(2015_film)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Puli</ns2:movieName>
+    <ns2:budget xml:lang="en">INR</ns2:budget>
+    <ns2:budget rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</ns2:budget>
+    <ns2:budget xml:lang="en"></ns2:budget>
+    <ns2:movieDescription xml:lang="en">Puli (transl. Tiger demon) is a 2015 Indian Tamil-language fantasy action adventure film written and directed by Chimbu Deven. The film stars Vijay in a dual role as demon prince and his son a half-demon alongside Hansika Motwani and Shruti Haasan in the female leads. Sudeep features as the main antagonist of the film along with Prabhu and Nandita Swetha in cameo roles. Sridevi features as the possessed evil Queen. The film's original Tamil version was released worldwide on 1 October 2015. The film was dubbed into both Telugu and Hindi, which were released a day later on 2 October 2015. The film received mixed reviews from critics with praise for the visual effects, cinematography and the performances of the cast but criticized the screenplay and execution. The story revolves around the clash between humans and demons (Vedhalams) ruled by a demon kingdom in a fantasy world, where a human is fighting for justice for the killing of humans by demons, but his ancestry turns out to be a mystery. Puli recovered its ₹100 crore investment through profit in satellite and digital rights.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">9240.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Tamil_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Nandita_Swetha"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Hansika_Motwani"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Sudeep"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Shruti_Haasan"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Prabhu_(actor)"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Sridevi"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Vijay_(actor)"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Devi_Sri_Prasad"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Chimbu_Deven"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Thameens_Films"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/P._T._Selvakumar"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Natarajan_Subramaniam"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Ayngaran_International"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/S._Narayan"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Thenandal_Studio_Limited"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Pahlaj_Nihalani"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/India"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Chimbu_Deven"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Lamotte">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#distributedBy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    <owl:inverseOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#distributorOf"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bel_Ami_(1955_film)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Bel Ami</ns2:movieName>
+    <ns2:movieDescription xml:lang="en">Bel Ami is a 1955 historical drama film directed by Louis Daquin and starring Anne Vernon, Renée Faure and Jean Danet. It was a co-production between Austria, France and East Germany. The film was shot in the Soviet-controlled Rosenhügel Studios in Vienna. It is an adaptation of the 1885 novel Bel Ami by Guy de Maupassant.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">6000.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/German_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Renée_Faure"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Jean_Danet"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Anne_Vernon"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Hanns_Eisler"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Louis_Daquin"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Oskar_Glück"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/André_Cultet"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Nicolas_Hayer"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Viktor_Meihsl"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Progress_Film"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/East_Germany"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/France"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/Austria"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Guy_de_Maupassant"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Vladimir_Pozner_(writer)"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Louis_Daquin"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Roger_Vailland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonard_Whiting">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_language">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#filmedIn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Capernaum_(film)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Capernaum</ns2:movieName>
+    <ns2:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">4000000.0</ns2:budget>
+    <ns2:budget xml:lang="en"></ns2:budget>
+    <ns2:movieDescription xml:lang="en">Capernaum (Arabic: كفرناحوم‎, romanized: Cafarnaüm) is a 2018 Lebanese drama film directed by Nadine Labaki and produced by Khaled Mouzanar. The screenplay was written by Labaki, Jihad Hojaily and Michelle Keserwany from a story by Labaki, Hojaily, Keserwany, Georges Khabbaz and Khaled Mouzanar. The film stars Syrian refugee child actor Zain Al Rafeea as Zain El Hajj, a 12-year-old living in the slums of Beirut. Capernaum is told in flashback format, focusing on Zain's life, including his encounter with an Ethiopian immigrant Rahil and her infant son Yonas, and leading up to his attempt to sue his parents for child neglect. The film debuted at the 2018 Cannes Film Festival, where it was selected to compete for the Palme d'Or, and won the Jury Prize. Capernaum received a 15-minute standing ovation following its premiere at Cannes on 17 May 2018. Sony Pictures Classics, which had previously distributed Labaki's Where Do We Go Now?, bought North American and Latin American distribution rights for the film, while Wild Bunch retained the international rights. It received a wider release on 20 September 2018. Capernaum received critical acclaim, with particular praise given to Labaki's direction, Al Rafeea's performance and the film's "documentary-like realism". Writing for The New York Times, Manohla Dargis and A. O. Scott named it as one of the greatest films of 2018. It was nominated for the Academy Award for Best Foreign Language Film at the 91st Academy Awards, among several other accolades. Capernaum is both the highest-grossing Arabic and Middle-Eastern film of all time, after becoming a sleeper hit at the international box office with over $68 million worldwide, against a production budget of $4 million. Its largest international market is China, where it became a surprise blockbuster with over $54 million.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">7560.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Arab_cinema"/>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Amharic"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Nadine_Labaki"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Zain_Al_Rafeea"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Khaled_Mouzanar"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Nadine_Labaki"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Khaled_Mouzanar"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Christopher_Aoun"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Sony_Pictures_Classics"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/Lebanon"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Nadine_Labaki"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Georges_Khabbaz"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Khaled_Mouzanar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#hasMovieLanguage">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    <owl:inverseOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#movieLanguageOf"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#areaTotal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#area"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natasha_Parry">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Van_Johnson">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zeitgeist_Films">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Vladimir_(film)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Prince Vladimir</ns2:movieName>
+    <ns2:movieDescription xml:lang="en">Prince Vladimir (Russian: Кня́зь Влади́мир, Knyaz' Vladimir) is a 2006 Russian traditionally-animated feature film. It is loosely based on the story of prince Vladimir the Great, who converted Kievan Rus' to Christianity in the late 10th century. The film tells a romanticized version of the story, adapted for children and filled with fantasy elements.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">4680.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Russian_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Irina_Bezrukova"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Vladimir_Gostyukhin"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Sergei_Bezrukov"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Olga_Churayeva"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Yuri_Berkun"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Andrei_Usachyov_(musician)"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Alexander_Pinegin"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Ighor_Zhuravlev"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Sergey_Nikolaevich_Starostin"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Yuri_Kulakov"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Andrey_Dobrunov"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Mariya_Erohina"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Baltic_countries"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/CASCADE-FILM"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/Russia"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Andrey_Dobrunov"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Yuri_Batanin"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Yuri_Kulakov"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#writtenBy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#wroteMusicFor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sardaar_Gabbar_Singh">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Sardaar Gabbar Singh</ns2:movieName>
+    <ns2:budget xml:lang="en">INR</ns2:budget>
+    <ns2:budget rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ns2:budget>
+    <ns2:movieDescription xml:lang="en">Sardaar Gabbar Singh is a 2016 Indian Telugu-language action comedy film directed by K. S. Ravindra, based on an original story and screenplay by Pawan Kalyan. A sequel to Gabbar Singh (2012), it stars Pawan Kalyan reprising his role from the previous film alongside Kajal Aggarwal and Sharad Kelkar (his Telugu debut). In the film, brave policeman Gabbar Singh (Kalyan) rescues the residents of Rathanpur when they are forced to face the wrath of Bhairav Singh (Kelkar), who unceremoniously usurps their land. Initially titled Gabbar Singh 2, the film began production on 21 February 2014 in Hyderabad with Sampath Nandi as the film. He later walked out of the film and was then replaced by Ravindra. Principal photography began in May 2015 at Maharashtra. The film was renamed Sardaar Gabbar Singh in mid-2015. Filming took place extensively in Hyderabad, Secunderabad, Gujarat and Kerala before concluding in March 2016. Devi Sri Prasad composed the film's music, while Arthur A. Wilson and Gautham Raju served as the cinematographer and editor, respectively. Sardaar Gabbar Singh was released worldwide on 8 April 2016, along with a Hindi dubbed version, on a screen count of 2,600 thus becoming the second biggest Telugu release after Baahubali: The Beginning (2015). It received overwhelmingly negative reviews from critics, but still became a commercial success grossing over ₹140 crore on a budget of ₹75 crore.</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">9840.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Telugu_language"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Sanjjanaa_Galrani"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Pawan_Kalyan"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Kajal_Aggarwal"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Sharad_Kelkar"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/Devi_Sri_Prasad"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/K._S._Ravindra"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Pawan_Kalyan"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Arthur_A._Wilson"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Eros_International"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/India"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Pawan_Kalyan"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Sai_Madhav_Burra"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sai_Madhav_Burra">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_A._Kuri">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pukar_(2000_film)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <ns2:movieName xml:lang="en">Pukar</ns2:movieName>
+    <ns2:movieDescription xml:lang="en">Pukar (lit. 'The Call') is a 2000 Indian action thriller film co-written and directed by Rajkumar Santoshi and Cinematography by Ashok Mehta, Santosh Sivan, Baba Azmi and Chota K. Naidu. It stars Anil Kapoor, Madhuri Dixit, Namrata Shirodkar, Danny Denzongpa, Shivaji Satam and Om Puri. The score and soundtrack were composed by A. R. Rahman. Pukar released on 4 February 2000, and received critical acclaim, but did average business at the box office. At the 48th National Film Awards, Pukar won 2 National Film Awards – Nargis Dutt Award for Best Feature Film on National Integration and Best Actor (Kapoor). At the 46th Filmfare Awards, Pukar received 2 nominations – Best Actor (Kapoor) and Best Actress (Dixit).</ns2:movieDescription>
+    <ns2:durationSeconds rdf:datatype="http://dbpedia.org/datatype/second">9900.0</ns2:durationSeconds>
+    <ns2:movieLanguageOf rdf:resource="http://dbpedia.org/resource/Hindi"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Anil_Kapoor"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Namrata_Shirodkar"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Madhuri_Dixit"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Danny_Denzongpa"/>
+    <ns2:hasActor rdf:resource="http://dbpedia.org/resource/Om_Puri"/>
+    <ns2:hasMusicBy rdf:resource="http://dbpedia.org/resource/A._R._Rahman"/>
+    <ns2:directedBy rdf:resource="http://dbpedia.org/resource/Rajkumar_Santoshi"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Bharat_Shah"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Surinder_Kapoor"/>
+    <ns2:producedBy rdf:resource="http://dbpedia.org/resource/Boney_Kapoor"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Ashok_Mehta"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Santosh_Sivan"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Baba_Azmi"/>
+    <ns2:cinematographyBy rdf:resource="http://dbpedia.org/resource/Chota_K._Naidu"/>
+    <ns2:distributedBy rdf:resource="http://dbpedia.org/resource/Eros_International"/>
+    <ns2:filmedIn rdf:resource="http://dbpedia.org/resource/India"/>
+    <ns2:writtenBy rdf:resource="http://dbpedia.org/resource/Anjum_Rajabali"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Hume">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mort_Ransen">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parth_Bhalerao">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metro-Goldwyn-Mayer">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anjum_Rajabali">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Webster_(actor)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willis_Goldbeck">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nino_Rota">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#currency">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cedric_Smith_(actor)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_A._Wilson">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolas_Hayer">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surinder_Kapoor">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franklin_Adreon">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#description">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Havelock-Allan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Sharp">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gloria_DeHaven">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nadine_Labaki">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lionel_Barrymore">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dale_Van_Sickel">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nandita_Swetha">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anurag_Basu">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab_cinema">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ravi_Kinagi">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Austria">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Morita">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamil_language">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#timezone">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#budget">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Pinegin">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Phillips">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Lantos">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rajkumar_Hirani">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Columbia_Pictures">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#area">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Progress_Film">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#writerOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    <owl:inverseOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#writtenBy"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergei_Bezrukov">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rohan-Rohan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franco_Brusati">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#playedIn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Daquin">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nitesh_Tiwari">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Usha_Jadhav">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UTV_Motion_Pictures">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boman_Irani">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/André_Cultet">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Sarrazin">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#capital">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Lee">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#areaWater">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#area"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanjay_Mishra_(actor)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#countryDescription">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#description"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#durationSeconds">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natarajan_Subramaniam">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thenandal_Studio_Limited">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_McEnery">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/German_language">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Butler_(screenwriter)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktor_Meihsl">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#movieName">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#name"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canadian_English">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chimbu_Deven">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bharat_Shah">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Ruskin">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ayngaran_International">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._Manikandan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koyel_Mullick">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amharic">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atom_Egoyan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#cinematographerOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <owl:inverseOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#cinematographyBy"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CASCADE-FILM">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prabhu_Deva">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Chevallier_(actor)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boney_Kapoor">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuri_Kulakov">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Brabourne">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Régis_Laspalès">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khaled_Mouzanar">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ranbir_Kapoor">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrei_Usachyov_(musician)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carey_Wilson_(writer)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hansika_Motwani">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Germany">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeet_Gannguli">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akshay_Kumar">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#cinematographyBy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#climate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#areaLand">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#area"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ed_McNamara">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#producerOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lara_Dutta">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Usha_Nadkarni">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_MacBurnie">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Djivan_Gasparyan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bengali_language">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#hasActor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <owl:inverseOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#playedIn"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_de_Maupassant">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santosh_Sivan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Dufaux">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Gulkin">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Italy">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irrfan_Khan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Snell_(producer)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Marie_Poiré">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#birthrate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fox_Star_Studios">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brijendra_Kala">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#name">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lloyd_Bridges">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AA_Films">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Vernon">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._Vijayendra_Prasad">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanjjanaa_Galrani">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidhu_Vinod_Chopra">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Farnon">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Snell_(composer)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Watkin">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#directorOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madhuri_Dixit">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nassar(actor)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Evans">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#deathrate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pahlaj_Nihalani">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Khabbaz">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#landboundary">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pasqualino_De_Santis">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Danet">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anil_Kapoor">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pawan_Kalyan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Artists">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sridevi">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/France_2_Cinéma">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Namrata_Shirodkar">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prabhu_(actor)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuri_Batanin">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuri_Berkun">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_language">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanessa_Redgrave">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zain_Al_Rafeea">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osamu_Kitajima">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Person">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armenian_language">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashok_Mehta">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shree_Venkatesh_Films">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thameens_Films">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eros_International">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amitabh_Bachchan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._R._Rahman">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anémone">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley_Wilson_(musician)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivia_Hussey">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taft_Broadcasting">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Rosson">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Makepeace">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Gostyukhin">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_York">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Henry_(actor)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Om_Puri">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Vámos">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palash_Muchhal">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronald_Davidson">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/France">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chota_K._Naidu">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_Vailland">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hovhanness_Tarpinian">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Telugu_language">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abhijat_Joshi">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franco_Zeffirelli">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Almond">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Marchand">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#distributorOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Movie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rajkumar_Santoshi">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ram_Sampath">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milton_Goldstein_(film_executive)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paramount_Pictures">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Priyadarshan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Devi_Sri_Prasad">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vijay_(actor)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P._T._Selvakumar">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Danny_Denzongpa">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sony_Pictures_Classics">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Glück">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Brand">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Grimaldi">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yo_Yo_Honey_Singh">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sudeep">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pritam">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raffy_Shart">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hindi">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siddharth_Roy_Kapur">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/René_Malo">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yograj_Bhat">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mushtaq_Shiekh">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Comédie_Star">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrey_Dobrunov">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murray_Smith_(writer)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/India">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ravi_Varman">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamaljeet_Negi">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shah_Rukh_Khan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K._S._Ravindra">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Urbain_Cancelier">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hindi_language">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armenia">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/EMI_Films">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norayr_Kasper">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dev_(Bengali_actor)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kajal_Aggarwal">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Stephens">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eve_Egoyan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanns_Eisler">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lebanon">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Aoun">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Widmark">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Pozner_(writer)">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santosh_Thundiyil">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bhushan_Kumar">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanjay_Leela_Bhansali">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milo_O'Shea">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irina_Bezrukova">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_language">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergey_Nikolaevich_Starostin">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sharad_Kelkar">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sreenivasan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Screenwriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russia">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariya_Erohina">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashot_Adamyan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canada">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sajid–Wajid">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shruti_Haasan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baltic_countries">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ileana_D'Cruz">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meet_Bros_Anjjan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renée_Faure">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Republic_Pictures">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Distributor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gauri_Khan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Heywood">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Churayeva">
+    <rdf:type rdf:resource="http://www.semanticweb.org/ahmuj311/ontologies/2024/7/untitled-ontology-2#Actor"/>
+  </rdf:Description>
+</rdf:RDF>
